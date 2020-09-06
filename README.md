@@ -48,5 +48,5 @@ You can either view all recipes or view by category.
 <img src="public/images/localhost_3001_recipes.png">
 
 ## Contributing
-This application was created by David Belleza, Melissa Cadena, Sylvia Prabudy, and Cherie Cookson.
+This application was created by <a href="https://github.com/d-belleza" target="_blank">David Belleza</a>, <a href="https://github.com/melissabcadena" target="_blank">Melissa Cadena</a>, Sylvia Prabudy, and <a href="https://github.com/cheriecookson" target="_blank">Cherie Cookson</a>.
 
